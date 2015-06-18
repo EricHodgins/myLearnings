@@ -2,6 +2,7 @@
 title: MyLearnings - A blog about stuff I try to learn
 email: eric@erichodgins.com
 description: A blog about my favorite web conferences.
+baseurl: '/myLearnings'
 url: "http://learnings.me" # the base hostname & protocol for your site
 twitter_username: erich
 myPic: ../img/Me.jpg
